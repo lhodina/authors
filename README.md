@@ -17,4 +17,4 @@ This was an unguided Coding Dojo project where I built out a wireframe to create
 - User can delete author and page re-renders without refresh
 
 ## Screenshots and Wireframe
-![Alt text](/client/src/assets/images/authors_wireframe.png?raw=true "Wireframe")
+![Alt text](/authors/client/src/assets/images/authors_wireframe.png?raw=true "Wireframe")
